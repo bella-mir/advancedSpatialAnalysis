@@ -1,26 +1,43 @@
-# Introduction
+# Продвинутые методы пространственного анализа
 
-I am a book about ... something! Wikipedia has [information about books](wiki:book): hover over the link for more information.
+Это инетрактивное пособие, в котором собраны материалы _*первого блока курса*_ **"Продвинутые методы аналитики городских данных"**, НИУ ВШЭ ФГРР, весна 2026
+
+Мы рассмотрим несколько основных тем, которые составляют основы пространственной статистики и машинного обучения:
+
+1. [Пространственное соседство и веса](week1/2_spatialNeighbors)
+2. [Пространственная автокорреляция](week1/3_correlation)
+3. Методы кластеризации и классификации пространственных данных
+4. Основные модели пространственной регресиии
+5. Геостатистические методы пространственного моделирования
+
+<!--
+На странице курса будут собраны как материалы для работы с пространственными данными на языке Python.  так и краткое руководство по работе в GeoDa -- программном обеспечении, которое помогает наглядно разорбраться в основных концепциях разведочного анализа пространственных данных (exploratory spatial data analysis - ESDA) и основах пространственной статистики -->
 
 % An admonition containing a note
 :::{note}
-Books are usually written on paper ... But Jupyter Book can create _websites_!
+Здесь вы найдёте материалы только первой части курса
 :::
 
-If you sold 100 books at \$10 per book, you'd have \$1000 dollars according to [](#eq:book). If instead you publish your Jupyter Book to the web for free, you'd have \$0 dollars!
+#### График занятий первой части курса
 
-% An arbitrary math equation
-:::{math}
-:name: eq:book
+- Разведочный анализ пространственных данных (ESDA) - Python + GeoDa
 
-x \times y = z
-:::
+**17.01.2026 (суббота)** 13:30–16:20
 
-Sometimes when reading it is helpful to foster a _tranquil_ environment. The image in [](#fig:mountains) would be a perfect spot!
+- ESDA + Методы кластеризации и классификации пространственных данных - Python
 
-% A figure of a photograph of some mountains, followed by a caption
-:::{figure} https://github.com/rowanc1/pics/blob/main/mountains.png?raw=true
-:label: fig:mountains
+**20.01.2026 (вторник)** 18:10–21:00
 
-A photograph of some beautiful mountains to look at whilst reading.
-:::
+- Основные модели пространственной регресиии - Python
+
+**27.01.2026 (вторник)** 18:10–21:00
+
+- Геостатистические методы пространственного моделирования - Python
+
+**10.02.2025 (вторник)** 18:10–21:00
+
+#### Дедлайны по проектам (первой части курса)
+
+- **24/01 (суббота)** — упражнение 1
+- **31/01 (суббота)** — упражнение 2
+- **14/02 (суббота)** — проект 1
