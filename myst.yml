@@ -6,7 +6,7 @@ project:
   description: Заметки курса "Продвинутые методы пространственного анализа", НИУ ВШЭ 2026
   # keywords: []
   authors:
-    - name: ''
+    - name: 'Bella Mironova'
   github: https://github.com/bella-mir/advancedSpatialAnalysis
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
@@ -20,6 +20,9 @@ project:
 
 site:
   template: book-theme
+  actions:
+    - title: Spatial Analysis Advanced
+      url: https://bella-mir.github.io/advancedSpatialAnalysis/
   options:
     logo_text: " "
     hide_myst_footer: true
