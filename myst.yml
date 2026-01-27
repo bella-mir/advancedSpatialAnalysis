@@ -14,9 +14,12 @@ project:
     - file: intro.md
     - file: chapters/1_spatialNeighbors
     - file: chapters/2_spatialCorrelation.ipynb
+    - file: chapters/3_spatialRegression.ipynb
+    - file: chapters/4_nrm.ipynb
     - title: "Tasks"
       children:
       - file: tasks/task1
+      - file: tasks/task2
       
 
 site:
