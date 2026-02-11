@@ -15,9 +15,11 @@ project:
     - file: chapters/1_spatialNeighbors
     - file: chapters/2_spatialCorrelation.ipynb
     - file: chapters/3_spatialRegression.ipynb
+    - file: chapters/4_spatialClustering.ipynb
     - title: "Applied examples"
       children:
-      - file: chapters/4_nrm.ipynb
+      - file: chapters/01_nrm.ipynb
+      - file: chapters/001_rasterAnalysis.ipynb
     - title: "Tasks"
       children:
       - file: tasks/task1
