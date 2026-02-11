@@ -7,7 +7,7 @@
 1. [Пространственное соседство и веса](chapters/1_spatialNeighbors)
 2. [Пространственная автокорреляция](chapters/2_spatialCorrelation)
 3. [Основные модели пространственной регресиии](chapters/3_spatialRegression)
-4. [Методы кластеризации и классификации пространственных данных](chapters/4_spatialClustering.ipynb)
+4. [Методы кластеризации пространственных данных](chapters/4_spatialClustering.ipynb)
 
 % An admonition containing a note
 :::{note}
