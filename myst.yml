@@ -15,7 +15,7 @@ project:
     - file: chapters/1_spatialNeighbors
     - file: chapters/2_spatialCorrelation.ipynb
     - file: chapters/3_spatialRegression.ipynb
-    - file: chapters/4_spatialClustering.ipynb
+    - file: chapters/4_clustering.ipynb
     - title: "Applied examples"
       children:
       - file: chapters/01_nrm.ipynb
